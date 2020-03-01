@@ -1,0 +1,1046 @@
+21:41:18  [main] 	Initializing Control Panel
+21:41:18  [main] 	Windows Version:  Home  64-bit
+21:41:18  [main] 	XAMPP Version: 7.4.2
+21:41:18  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:41:18  [main] 	You are not running with administrator rights! This will work for
+21:41:18  [main] 	most application stuff but whenever you do something with services
+21:41:18  [main] 	there will be a security dialogue or things will break! So think 
+21:41:18  [main] 	about running this application with administrator rights!
+21:41:18  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:41:18  [main] 	Checking for prerequisites
+21:41:18  [main] 	All prerequisites found
+21:41:18  [main] 	Initializing Modules
+21:41:18  [main] 	The Tomcat module is disabled
+21:41:18  [main] 	Starting Check-Timer
+21:41:18  [main] 	Control Panel Ready
+21:41:21  [Apache] 	Attempting to start Apache app...
+21:41:22  [Apache] 	Status change detected: running
+21:41:22  [mysql] 	Attempting to start MySQL app...
+21:41:23  [mysql] 	Status change detected: running
+22:41:21  [Apache] 	Status change detected: stopped
+22:41:21  [Apache] 	Error: Apache shutdown unexpectedly.
+22:41:21  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:41:21  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:41:21  [Apache] 	Press the Logs button to view error logs and check
+22:41:21  [Apache] 	the Windows Event Viewer for more clues
+22:41:21  [Apache] 	If you need more help, copy and post this
+22:41:21  [Apache] 	entire log window on the forums
+22:41:22  [mysql] 	Status change detected: stopped
+22:41:22  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:41:22  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:41:22  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:41:22  [mysql] 	Press the Logs button to view error logs and check
+22:41:22  [mysql] 	the Windows Event Viewer for more clues
+22:41:22  [mysql] 	If you need more help, copy and post this
+22:41:22  [mysql] 	entire log window on the forums
+22:41:30  [main] 	Deinitializing Modules
+22:41:30  [main] 	Deinitializing Control Panel
+
+21:03:39  [main] 	Initializing Control Panel
+21:03:39  [main] 	Windows Version:  Home  64-bit
+21:03:40  [main] 	XAMPP Version: 7.4.2
+21:03:40  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:03:40  [main] 	You are not running with administrator rights! This will work for
+21:03:40  [main] 	most application stuff but whenever you do something with services
+21:03:40  [main] 	there will be a security dialogue or things will break! So think 
+21:03:40  [main] 	about running this application with administrator rights!
+21:03:40  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:03:40  [main] 	Checking for prerequisites
+21:03:41  [main] 	All prerequisites found
+21:03:41  [main] 	Initializing Modules
+21:03:41  [main] 	The Tomcat module is disabled
+21:03:41  [main] 	Starting Check-Timer
+21:03:41  [main] 	Control Panel Ready
+21:03:54  [Apache] 	Attempting to start Apache app...
+21:03:54  [Apache] 	Status change detected: running
+21:03:59  [mysql] 	Attempting to start MySQL app...
+21:04:02  [mysql] 	Status change detected: running
+21:17:13  [Apache] 	Attempting to stop Apache (PID: 11208)
+21:17:13  [Apache] 	Attempting to stop Apache (PID: 9536)
+21:17:13  [Apache] 	Status change detected: stopped
+21:17:15  [mysql] 	Attempting to stop MySQL app...
+21:17:16  [mysql] 	Status change detected: stopped
+21:21:02  [Apache] 	Status change detected: running
+21:21:06  [mysql] 	Status change detected: running
+21:26:02  [Apache] 	Status change detected: stopped
+21:26:03  [mysql] 	Status change detected: stopped
+21:41:21  [Apache] 	Status change detected: running
+21:41:22  [mysql] 	Status change detected: running
+22:41:21  [Apache] 	Status change detected: stopped
+22:41:22  [mysql] 	Status change detected: stopped
+22:41:30  [main] 	Deinitializing Modules
+22:41:30  [main] 	Deinitializing Control Panel
+
+22:27:02  [main] 	Initializing Control Panel
+22:27:02  [main] 	Windows Version:  Home  64-bit
+22:27:02  [main] 	XAMPP Version: 7.4.2
+22:27:02  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:27:02  [main] 	You are not running with administrator rights! This will work for
+22:27:02  [main] 	most application stuff but whenever you do something with services
+22:27:02  [main] 	there will be a security dialogue or things will break! So think 
+22:27:02  [main] 	about running this application with administrator rights!
+22:27:02  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:27:02  [main] 	Checking for prerequisites
+22:27:02  [main] 	All prerequisites found
+22:27:02  [main] 	Initializing Modules
+22:27:02  [Apache] 	XAMPP Apache is already running on port 80
+22:27:02  [Apache] 	XAMPP Apache is already running on port 443
+22:27:02  [mysql] 	XAMPP MySQL is already running on port 3306
+22:27:02  [main] 	The Tomcat module is disabled
+22:27:02  [main] 	Starting Check-Timer
+22:27:02  [main] 	Control Panel Ready
+22:41:21  [Apache] 	Attempting to stop Apache (PID: 9280)
+22:41:21  [Apache] 	Attempting to stop Apache (PID: 8032)
+22:41:21  [Apache] 	Status change detected: stopped
+22:41:22  [mysql] 	Attempting to stop MySQL app...
+22:41:22  [mysql] 	Status change detected: stopped
+22:41:30  [main] 	Deinitializing Modules
+22:41:30  [main] 	Deinitializing Control Panel
+
+21:25:41  [main] 	Initializing Control Panel
+21:25:41  [main] 	Windows Version:  Home  64-bit
+21:25:41  [main] 	XAMPP Version: 7.4.2
+21:25:41  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:25:41  [main] 	You are not running with administrator rights! This will work for
+21:25:41  [main] 	most application stuff but whenever you do something with services
+21:25:41  [main] 	there will be a security dialogue or things will break! So think 
+21:25:41  [main] 	about running this application with administrator rights!
+21:25:41  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:25:41  [main] 	Checking for prerequisites
+21:25:44  [main] 	All prerequisites found
+21:25:44  [main] 	Initializing Modules
+21:25:44  [Apache] 	XAMPP Apache is already running on port 80
+21:25:44  [Apache] 	XAMPP Apache is already running on port 443
+21:25:44  [mysql] 	XAMPP MySQL is already running on port 3306
+21:25:44  [main] 	The Tomcat module is disabled
+21:25:44  [main] 	Starting Check-Timer
+21:25:44  [main] 	Control Panel Ready
+21:26:02  [Apache] 	Attempting to stop Apache (PID: 10208)
+21:26:02  [Apache] 	Attempting to stop Apache (PID: 3400)
+21:26:02  [Apache] 	Status change detected: stopped
+21:26:03  [mysql] 	Attempting to stop MySQL app...
+21:26:03  [mysql] 	Status change detected: stopped
+21:41:21  [Apache] 	Status change detected: running
+21:41:22  [mysql] 	Status change detected: running
+22:41:21  [Apache] 	Status change detected: stopped
+22:41:22  [mysql] 	Status change detected: stopped
+22:41:30  [main] 	Deinitializing Modules
+22:41:30  [main] 	Deinitializing Control Panel
+
+16:08:08  [main] 	Initializing Control Panel
+16:08:08  [main] 	Windows Version:  Home  64-bit
+16:08:08  [main] 	XAMPP Version: 7.4.2
+16:08:08  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+16:08:08  [main] 	You are not running with administrator rights! This will work for
+16:08:08  [main] 	most application stuff but whenever you do something with services
+16:08:08  [main] 	there will be a security dialogue or things will break! So think 
+16:08:08  [main] 	about running this application with administrator rights!
+16:08:08  [main] 	XAMPP Installation Directory: "c:\xampp\"
+16:08:08  [main] 	Checking for prerequisites
+16:08:08  [main] 	All prerequisites found
+16:08:08  [main] 	Initializing Modules
+16:08:08  [main] 	The Tomcat module is disabled
+16:08:08  [main] 	Starting Check-Timer
+16:08:08  [main] 	Control Panel Ready
+16:08:13  [Apache] 	Attempting to start Apache app...
+16:08:13  [Apache] 	Status change detected: running
+16:08:14  [mysql] 	Attempting to start MySQL app...
+16:08:14  [mysql] 	Status change detected: running
+18:03:56  [main] 	Deinitializing Modules
+18:03:56  [main] 	Deinitializing Control Panel
+
+19:34:19  [main] 	Initializing Control Panel
+19:34:19  [main] 	Windows Version:  Home  64-bit
+19:34:19  [main] 	XAMPP Version: 7.4.2
+19:34:19  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:34:19  [main] 	You are not running with administrator rights! This will work for
+19:34:19  [main] 	most application stuff but whenever you do something with services
+19:34:19  [main] 	there will be a security dialogue or things will break! So think 
+19:34:19  [main] 	about running this application with administrator rights!
+19:34:19  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:34:19  [main] 	Checking for prerequisites
+19:34:21  [main] 	All prerequisites found
+19:34:21  [main] 	Initializing Modules
+19:34:21  [main] 	The Tomcat module is disabled
+19:34:21  [main] 	Starting Check-Timer
+19:34:21  [main] 	Control Panel Ready
+19:34:25  [Apache] 	Attempting to start Apache app...
+19:34:25  [Apache] 	Status change detected: running
+19:34:35  [mysql] 	Attempting to start MySQL app...
+19:34:36  [mysql] 	Status change detected: running
+19:50:43  [main] 	Deinitializing Modules
+19:50:43  [main] 	Deinitializing Control Panel
+
+20:11:44  [main] 	Initializing Control Panel
+20:11:44  [main] 	Windows Version:  Home  64-bit
+20:11:44  [main] 	XAMPP Version: 7.4.2
+20:11:44  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:11:44  [main] 	You are not running with administrator rights! This will work for
+20:11:44  [main] 	most application stuff but whenever you do something with services
+20:11:44  [main] 	there will be a security dialogue or things will break! So think 
+20:11:44  [main] 	about running this application with administrator rights!
+20:11:44  [main] 	XAMPP Installation Directory: "c:\xampp\"
+20:11:44  [main] 	Checking for prerequisites
+20:11:44  [main] 	All prerequisites found
+20:11:44  [main] 	Initializing Modules
+20:11:44  [main] 	The Tomcat module is disabled
+20:11:44  [main] 	Starting Check-Timer
+20:11:44  [main] 	Control Panel Ready
+20:11:48  [Apache] 	Attempting to start Apache app...
+20:11:48  [Apache] 	Status change detected: running
+20:11:50  [mysql] 	Attempting to start MySQL app...
+20:11:50  [mysql] 	Status change detected: running
+00:06:14  [main] 	Deinitializing Modules
+00:06:14  [main] 	Deinitializing Control Panel
+
+08:00:34  [main] 	Initializing Control Panel
+08:00:34  [main] 	Windows Version:  Home  64-bit
+08:00:34  [main] 	XAMPP Version: 7.4.2
+08:00:34  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+08:00:34  [main] 	You are not running with administrator rights! This will work for
+08:00:34  [main] 	most application stuff but whenever you do something with services
+08:00:34  [main] 	there will be a security dialogue or things will break! So think 
+08:00:34  [main] 	about running this application with administrator rights!
+08:00:34  [main] 	XAMPP Installation Directory: "c:\xampp\"
+08:00:34  [main] 	Checking for prerequisites
+08:00:37  [main] 	All prerequisites found
+08:00:37  [main] 	Initializing Modules
+08:00:37  [main] 	The Tomcat module is disabled
+08:00:37  [main] 	Starting Check-Timer
+08:00:37  [main] 	Control Panel Ready
+08:00:45  [Apache] 	Attempting to start Apache app...
+08:00:46  [Apache] 	Status change detected: running
+08:00:47  [mysql] 	Attempting to start MySQL app...
+08:00:48  [mysql] 	Status change detected: running
+09:06:56  [main] 	Deinitializing Modules
+09:06:56  [main] 	Deinitializing Control Panel
+
+07:55:33  [main] 	Initializing Control Panel
+07:55:33  [main] 	Windows Version:  Home  64-bit
+07:55:33  [main] 	XAMPP Version: 7.4.2
+07:55:33  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+07:55:33  [main] 	You are not running with administrator rights! This will work for
+07:55:33  [main] 	most application stuff but whenever you do something with services
+07:55:33  [main] 	there will be a security dialogue or things will break! So think 
+07:55:33  [main] 	about running this application with administrator rights!
+07:55:33  [main] 	XAMPP Installation Directory: "c:\xampp\"
+07:55:33  [main] 	Checking for prerequisites
+07:55:35  [main] 	All prerequisites found
+07:55:35  [main] 	Initializing Modules
+07:55:35  [main] 	The Tomcat module is disabled
+07:55:35  [main] 	Starting Check-Timer
+07:55:35  [main] 	Control Panel Ready
+07:55:38  [Apache] 	Attempting to start Apache app...
+07:55:38  [Apache] 	Status change detected: running
+07:55:40  [mysql] 	Attempting to start MySQL app...
+07:55:41  [mysql] 	Status change detected: running
+08:14:40  [main] 	Deinitializing Modules
+08:14:40  [main] 	Deinitializing Control Panel
+
+22:13:12  [main] 	Initializing Control Panel
+22:13:12  [main] 	Windows Version:  Home  64-bit
+22:13:13  [main] 	XAMPP Version: 7.4.2
+22:13:13  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:13:13  [main] 	You are not running with administrator rights! This will work for
+22:13:13  [main] 	most application stuff but whenever you do something with services
+22:13:13  [main] 	there will be a security dialogue or things will break! So think 
+22:13:13  [main] 	about running this application with administrator rights!
+22:13:13  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:13:13  [main] 	Checking for prerequisites
+22:13:19  [main] 	All prerequisites found
+22:13:19  [main] 	Initializing Modules
+22:13:19  [main] 	The Tomcat module is disabled
+22:13:19  [main] 	Starting Check-Timer
+22:13:19  [main] 	Control Panel Ready
+22:13:26  [Apache] 	Attempting to start Apache app...
+22:13:26  [Apache] 	Status change detected: running
+22:13:27  [mysql] 	Attempting to start MySQL app...
+22:13:27  [mysql] 	Status change detected: running
+22:30:32  [main] 	Deinitializing Modules
+22:30:32  [main] 	Deinitializing Control Panel
+
+18:04:33  [main] 	Initializing Control Panel
+18:04:33  [main] 	Windows Version:  Home  64-bit
+18:04:33  [main] 	XAMPP Version: 7.4.2
+18:04:33  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:04:33  [main] 	You are not running with administrator rights! This will work for
+18:04:33  [main] 	most application stuff but whenever you do something with services
+18:04:33  [main] 	there will be a security dialogue or things will break! So think 
+18:04:33  [main] 	about running this application with administrator rights!
+18:04:33  [main] 	XAMPP Installation Directory: "c:\xampp\"
+18:04:33  [main] 	Checking for prerequisites
+18:04:37  [main] 	All prerequisites found
+18:04:37  [main] 	Initializing Modules
+18:04:38  [main] 	The Tomcat module is disabled
+18:04:38  [main] 	Starting Check-Timer
+18:04:38  [main] 	Control Panel Ready
+18:04:40  [Apache] 	Attempting to start Apache app...
+18:04:41  [Apache] 	Status change detected: running
+18:04:41  [mysql] 	Attempting to start MySQL app...
+18:04:43  [mysql] 	Status change detected: running
+22:13:10  [main] 	Deinitializing Modules
+22:13:10  [main] 	Deinitializing Control Panel
+
+22:27:50  [main] 	Initializing Control Panel
+22:27:50  [main] 	Windows Version:  Home  64-bit
+22:27:50  [main] 	XAMPP Version: 7.4.2
+22:27:50  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:27:50  [main] 	You are not running with administrator rights! This will work for
+22:27:50  [main] 	most application stuff but whenever you do something with services
+22:27:50  [main] 	there will be a security dialogue or things will break! So think 
+22:27:50  [main] 	about running this application with administrator rights!
+22:27:50  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:27:50  [main] 	Checking for prerequisites
+22:27:51  [main] 	All prerequisites found
+22:27:51  [main] 	Initializing Modules
+22:27:51  [main] 	The Tomcat module is disabled
+22:27:51  [main] 	Starting Check-Timer
+22:27:51  [main] 	Control Panel Ready
+22:28:06  [Apache] 	Attempting to start Apache app...
+22:28:06  [Apache] 	Status change detected: running
+22:28:09  [mysql] 	Attempting to start MySQL app...
+22:28:10  [mysql] 	Status change detected: running
+23:08:04  [Apache] 	Attempting to stop Apache (PID: 3764)
+23:08:04  [Apache] 	Attempting to stop Apache (PID: 5752)
+23:08:05  [Apache] 	Status change detected: stopped
+23:08:06  [mysql] 	Attempting to stop MySQL app...
+23:08:06  [mysql] 	Status change detected: stopped
+23:08:18  [main] 	Deinitializing Modules
+23:08:18  [main] 	Deinitializing Control Panel
+
+19:35:00  [main] 	Initializing Control Panel
+19:35:00  [main] 	Windows Version:  Home  64-bit
+19:35:00  [main] 	XAMPP Version: 7.4.2
+19:35:00  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:35:00  [main] 	You are not running with administrator rights! This will work for
+19:35:00  [main] 	most application stuff but whenever you do something with services
+19:35:00  [main] 	there will be a security dialogue or things will break! So think 
+19:35:00  [main] 	about running this application with administrator rights!
+19:35:00  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:35:00  [main] 	Checking for prerequisites
+19:35:07  [main] 	All prerequisites found
+19:35:07  [main] 	Initializing Modules
+19:35:07  [main] 	The Tomcat module is disabled
+19:35:07  [main] 	Starting Check-Timer
+19:35:07  [main] 	Control Panel Ready
+19:35:10  [Apache] 	Attempting to start Apache app...
+19:35:11  [mysql] 	Attempting to start MySQL app...
+19:35:12  [Apache] 	Status change detected: running
+19:35:12  [mysql] 	Status change detected: running
+20:13:40  [main] 	Deinitializing Modules
+20:13:40  [main] 	Deinitializing Control Panel
+
+21:21:24  [main] 	Initializing Control Panel
+21:21:24  [main] 	Windows Version:  Home  64-bit
+21:21:24  [main] 	XAMPP Version: 7.4.2
+21:21:24  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:21:24  [main] 	You are not running with administrator rights! This will work for
+21:21:24  [main] 	most application stuff but whenever you do something with services
+21:21:24  [main] 	there will be a security dialogue or things will break! So think 
+21:21:24  [main] 	about running this application with administrator rights!
+21:21:24  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:21:24  [main] 	Checking for prerequisites
+21:21:24  [main] 	All prerequisites found
+21:21:24  [main] 	Initializing Modules
+21:21:25  [main] 	The Tomcat module is disabled
+21:21:25  [main] 	Starting Check-Timer
+21:21:25  [main] 	Control Panel Ready
+21:21:29  [Apache] 	Attempting to start Apache app...
+21:21:30  [Apache] 	Status change detected: running
+21:21:31  [mysql] 	Attempting to start MySQL app...
+21:21:36  [mysql] 	Status change detected: running
+22:19:17  [main] 	Deinitializing Modules
+22:19:17  [main] 	Deinitializing Control Panel
+
+09:54:38  [main] 	Initializing Control Panel
+09:54:38  [main] 	Windows Version:  Home  64-bit
+09:54:38  [main] 	XAMPP Version: 7.4.2
+09:54:38  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+09:54:38  [main] 	You are not running with administrator rights! This will work for
+09:54:38  [main] 	most application stuff but whenever you do something with services
+09:54:38  [main] 	there will be a security dialogue or things will break! So think 
+09:54:38  [main] 	about running this application with administrator rights!
+09:54:38  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:54:38  [main] 	Checking for prerequisites
+09:54:39  [main] 	All prerequisites found
+09:54:39  [main] 	Initializing Modules
+09:54:39  [main] 	The Tomcat module is disabled
+09:54:39  [main] 	Starting Check-Timer
+09:54:39  [main] 	Control Panel Ready
+09:54:41  [Apache] 	Attempting to start Apache app...
+09:54:41  [Apache] 	Status change detected: running
+09:54:43  [mysql] 	Attempting to start MySQL app...
+09:54:43  [mysql] 	Status change detected: running
+18:44:06  [Apache] 	Status change detected: stopped
+18:44:06  [Apache] 	Error: Apache shutdown unexpectedly.
+18:44:06  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:44:06  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:44:06  [Apache] 	Press the Logs button to view error logs and check
+18:44:06  [Apache] 	the Windows Event Viewer for more clues
+18:44:06  [Apache] 	If you need more help, copy and post this
+18:44:06  [Apache] 	entire log window on the forums
+18:44:07  [mysql] 	Status change detected: stopped
+18:44:07  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:44:07  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:44:07  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:44:07  [mysql] 	Press the Logs button to view error logs and check
+18:44:07  [mysql] 	the Windows Event Viewer for more clues
+18:44:07  [mysql] 	If you need more help, copy and post this
+18:44:07  [mysql] 	entire log window on the forums
+18:44:28  [mysql] 	Status change detected: running
+18:44:30  [Apache] 	Status change detected: running
+19:26:36  [main] 	Deinitializing Modules
+19:26:36  [main] 	Deinitializing Control Panel
+
+21:38:50  [main] 	Initializing Control Panel
+21:38:50  [main] 	Windows Version:  Home  64-bit
+21:38:50  [main] 	XAMPP Version: 7.4.2
+21:38:50  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:38:50  [main] 	You are not running with administrator rights! This will work for
+21:38:50  [main] 	most application stuff but whenever you do something with services
+21:38:50  [main] 	there will be a security dialogue or things will break! So think 
+21:38:50  [main] 	about running this application with administrator rights!
+21:38:50  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:38:50  [main] 	Checking for prerequisites
+21:38:51  [main] 	All prerequisites found
+21:38:51  [main] 	Initializing Modules
+21:38:51  [main] 	The Tomcat module is disabled
+21:38:51  [main] 	Starting Check-Timer
+21:38:51  [main] 	Control Panel Ready
+21:38:54  [Apache] 	Attempting to start Apache app...
+21:38:55  [Apache] 	Status change detected: running
+21:38:55  [mysql] 	Attempting to start MySQL app...
+21:38:57  [mysql] 	Status change detected: running
+22:23:34  [Apache] 	Attempting to stop Apache (PID: 10716)
+22:23:34  [Apache] 	Attempting to stop Apache (PID: 5920)
+22:23:34  [Apache] 	Status change detected: stopped
+22:23:36  [mysql] 	Attempting to stop MySQL app...
+22:23:36  [mysql] 	Status change detected: stopped
+22:28:28  [main] 	Deinitializing Modules
+22:28:28  [main] 	Deinitializing Control Panel
+
+22:35:00  [main] 	Initializing Control Panel
+22:35:00  [main] 	Windows Version:  Home  64-bit
+22:35:00  [main] 	XAMPP Version: 7.4.2
+22:35:00  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:35:00  [main] 	You are not running with administrator rights! This will work for
+22:35:00  [main] 	most application stuff but whenever you do something with services
+22:35:00  [main] 	there will be a security dialogue or things will break! So think 
+22:35:00  [main] 	about running this application with administrator rights!
+22:35:00  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:35:00  [main] 	Checking for prerequisites
+22:35:03  [main] 	All prerequisites found
+22:35:03  [main] 	Initializing Modules
+22:35:03  [main] 	The Tomcat module is disabled
+22:35:03  [main] 	Starting Check-Timer
+22:35:03  [main] 	Control Panel Ready
+22:35:27  [mysql] 	Attempting to start MySQL app...
+22:35:28  [mysql] 	Status change detected: running
+22:39:21  [Apache] 	Attempting to start Apache app...
+22:39:22  [Apache] 	Status change detected: running
+22:55:04  [main] 	Deinitializing Modules
+22:55:04  [main] 	Deinitializing Control Panel
+
+23:30:32  [main] 	Initializing Control Panel
+23:30:32  [main] 	Windows Version:  Home  64-bit
+23:30:32  [main] 	XAMPP Version: 7.4.2
+23:30:32  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:30:32  [main] 	You are not running with administrator rights! This will work for
+23:30:32  [main] 	most application stuff but whenever you do something with services
+23:30:32  [main] 	there will be a security dialogue or things will break! So think 
+23:30:32  [main] 	about running this application with administrator rights!
+23:30:32  [main] 	XAMPP Installation Directory: "c:\xampp\"
+23:30:32  [main] 	Checking for prerequisites
+23:30:33  [main] 	All prerequisites found
+23:30:33  [main] 	Initializing Modules
+23:30:33  [Apache] 	XAMPP Apache is already running on port 80
+23:30:33  [Apache] 	XAMPP Apache is already running on port 443
+23:30:33  [mysql] 	XAMPP MySQL is already running on port 3306
+23:30:33  [main] 	The Tomcat module is disabled
+23:30:33  [main] 	Starting Check-Timer
+23:30:33  [main] 	Control Panel Ready
+00:37:37  [main] 	Deinitializing Modules
+00:37:37  [main] 	Deinitializing Control Panel
+
+17:01:41  [main] 	Initializing Control Panel
+17:01:41  [main] 	Windows Version:  Home  64-bit
+17:01:41  [main] 	XAMPP Version: 7.4.2
+17:01:41  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:01:41  [main] 	You are not running with administrator rights! This will work for
+17:01:41  [main] 	most application stuff but whenever you do something with services
+17:01:41  [main] 	there will be a security dialogue or things will break! So think 
+17:01:41  [main] 	about running this application with administrator rights!
+17:01:41  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:01:41  [main] 	Checking for prerequisites
+17:01:41  [main] 	All prerequisites found
+17:01:41  [main] 	Initializing Modules
+17:01:41  [main] 	The Tomcat module is disabled
+17:01:41  [main] 	Starting Check-Timer
+17:01:41  [main] 	Control Panel Ready
+17:01:45  [Apache] 	Attempting to start Apache app...
+17:01:45  [Apache] 	Status change detected: running
+17:01:48  [mysql] 	Attempting to start MySQL app...
+17:01:49  [mysql] 	Status change detected: running
+17:04:59  [Apache] 	Status change detected: stopped
+17:04:59  [Apache] 	Error: Apache shutdown unexpectedly.
+17:04:59  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:04:59  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:04:59  [Apache] 	Press the Logs button to view error logs and check
+17:04:59  [Apache] 	the Windows Event Viewer for more clues
+17:04:59  [Apache] 	If you need more help, copy and post this
+17:04:59  [Apache] 	entire log window on the forums
+17:04:59  [mysql] 	Status change detected: stopped
+17:04:59  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:04:59  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:04:59  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:04:59  [mysql] 	Press the Logs button to view error logs and check
+17:04:59  [mysql] 	the Windows Event Viewer for more clues
+17:04:59  [mysql] 	If you need more help, copy and post this
+17:04:59  [mysql] 	entire log window on the forums
+17:04:59  [main] 	Deinitializing Modules
+17:04:59  [main] 	Deinitializing Control Panel
+
+18:45:57  [main] 	Initializing Control Panel
+18:45:57  [main] 	Windows Version:  Home  64-bit
+18:45:57  [main] 	XAMPP Version: 7.4.2
+18:45:57  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:45:57  [main] 	You are not running with administrator rights! This will work for
+18:45:57  [main] 	most application stuff but whenever you do something with services
+18:45:57  [main] 	there will be a security dialogue or things will break! So think 
+18:45:57  [main] 	about running this application with administrator rights!
+18:45:57  [main] 	XAMPP Installation Directory: "c:\xampp\"
+18:45:57  [main] 	Checking for prerequisites
+18:46:01  [main] 	All prerequisites found
+18:46:01  [main] 	Initializing Modules
+18:46:01  [main] 	The Tomcat module is disabled
+18:46:01  [main] 	Starting Check-Timer
+18:46:01  [main] 	Control Panel Ready
+18:46:05  [Apache] 	Attempting to start Apache app...
+18:46:06  [Apache] 	Status change detected: running
+18:46:07  [mysql] 	Attempting to start MySQL app...
+18:46:08  [mysql] 	Status change detected: running
+20:06:12  [Apache] 	Attempting to stop Apache (PID: 1324)
+20:06:12  [Apache] 	Attempting to stop Apache (PID: 6016)
+20:06:12  [Apache] 	Status change detected: stopped
+20:06:13  [mysql] 	Attempting to stop MySQL app...
+20:06:14  [mysql] 	Status change detected: stopped
+20:06:19  [main] 	Deinitializing Modules
+20:06:19  [main] 	Deinitializing Control Panel
+
+11:27:47  [main] 	Initializing Control Panel
+11:27:47  [main] 	Windows Version:  Home  64-bit
+11:27:47  [main] 	XAMPP Version: 7.4.2
+11:27:47  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:27:47  [main] 	You are not running with administrator rights! This will work for
+11:27:47  [main] 	most application stuff but whenever you do something with services
+11:27:47  [main] 	there will be a security dialogue or things will break! So think 
+11:27:47  [main] 	about running this application with administrator rights!
+11:27:47  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:27:47  [main] 	Checking for prerequisites
+11:28:03  [main] 	All prerequisites found
+11:28:03  [main] 	Initializing Modules
+11:28:03  [main] 	The Tomcat module is disabled
+11:28:03  [main] 	Starting Check-Timer
+11:28:03  [main] 	Control Panel Ready
+11:28:07  [Apache] 	Status change detected: running
+11:28:08  [mysql] 	Status change detected: running
+17:03:28  [Apache] 	Attempting to stop Apache (PID: 7156)
+17:03:28  [Apache] 	Attempting to stop Apache (PID: 1652)
+17:03:29  [Apache] 	Status change detected: stopped
+17:03:29  [mysql] 	Attempting to stop MySQL app...
+17:03:30  [mysql] 	Status change detected: stopped
+17:20:57  [main] 	Deinitializing Modules
+17:20:57  [main] 	Deinitializing Control Panel
+
+11:27:56  [main] 	Initializing Control Panel
+11:27:56  [main] 	Windows Version:  Home  64-bit
+11:27:56  [main] 	XAMPP Version: 7.4.2
+11:27:56  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:27:56  [main] 	You are not running with administrator rights! This will work for
+11:27:56  [main] 	most application stuff but whenever you do something with services
+11:27:56  [main] 	there will be a security dialogue or things will break! So think 
+11:27:56  [main] 	about running this application with administrator rights!
+11:27:56  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:27:56  [main] 	Checking for prerequisites
+11:28:03  [main] 	All prerequisites found
+11:28:03  [main] 	Initializing Modules
+11:28:03  [main] 	The Tomcat module is disabled
+11:28:03  [main] 	Starting Check-Timer
+11:28:03  [main] 	Control Panel Ready
+11:28:07  [Apache] 	Attempting to start Apache app...
+11:28:07  [Apache] 	Status change detected: running
+11:28:08  [mysql] 	Attempting to start MySQL app...
+11:28:08  [mysql] 	Status change detected: running
+17:03:30  [Apache] 	Status change detected: stopped
+17:03:30  [Apache] 	Error: Apache shutdown unexpectedly.
+17:03:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:03:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:03:30  [Apache] 	Press the Logs button to view error logs and check
+17:03:30  [Apache] 	the Windows Event Viewer for more clues
+17:03:30  [Apache] 	If you need more help, copy and post this
+17:03:30  [Apache] 	entire log window on the forums
+17:03:30  [mysql] 	Status change detected: stopped
+17:03:30  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:03:30  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:03:30  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:03:30  [mysql] 	Press the Logs button to view error logs and check
+17:03:30  [mysql] 	the Windows Event Viewer for more clues
+17:03:30  [mysql] 	If you need more help, copy and post this
+17:03:30  [mysql] 	entire log window on the forums
+17:20:57  [main] 	Deinitializing Modules
+17:20:57  [main] 	Deinitializing Control Panel
+
+19:55:51  [main] 	Initializing Control Panel
+19:55:51  [main] 	Windows Version:  Home  64-bit
+19:55:51  [main] 	XAMPP Version: 7.4.2
+19:55:51  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:55:51  [main] 	You are not running with administrator rights! This will work for
+19:55:51  [main] 	most application stuff but whenever you do something with services
+19:55:51  [main] 	there will be a security dialogue or things will break! So think 
+19:55:51  [main] 	about running this application with administrator rights!
+19:55:51  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:55:51  [main] 	Checking for prerequisites
+19:55:52  [main] 	All prerequisites found
+19:55:52  [main] 	Initializing Modules
+19:55:52  [Apache] 	XAMPP Apache is already running on port 80
+19:55:52  [Apache] 	XAMPP Apache is already running on port 443
+19:55:52  [mysql] 	XAMPP MySQL is already running on port 3306
+19:55:52  [main] 	The Tomcat module is disabled
+19:55:52  [main] 	Starting Check-Timer
+19:55:52  [main] 	Control Panel Ready
+19:55:54  [Apache] 	Attempting to stop Apache (PID: 12148)
+19:55:54  [Apache] 	Attempting to stop Apache (PID: 10860)
+19:55:54  [Apache] 	Status change detected: stopped
+19:55:55  [mysql] 	Attempting to stop MySQL app...
+19:55:55  [mysql] 	Status change detected: stopped
+19:56:28  [Apache] 	Attempting to start Apache app...
+19:56:28  [Apache] 	Status change detected: running
+19:56:30  [mysql] 	Attempting to start MySQL app...
+19:56:30  [mysql] 	Status change detected: running
+22:45:08  [main] 	Deinitializing Modules
+22:45:08  [main] 	Deinitializing Control Panel
+
+22:48:46  [main] 	Initializing Control Panel
+22:48:46  [main] 	Windows Version:  Home  64-bit
+22:48:46  [main] 	XAMPP Version: 7.4.2
+22:48:46  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:48:46  [main] 	You are not running with administrator rights! This will work for
+22:48:46  [main] 	most application stuff but whenever you do something with services
+22:48:46  [main] 	there will be a security dialogue or things will break! So think 
+22:48:46  [main] 	about running this application with administrator rights!
+22:48:46  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:48:46  [main] 	Checking for prerequisites
+22:48:49  [main] 	All prerequisites found
+22:48:49  [main] 	Initializing Modules
+22:48:49  [main] 	The Tomcat module is disabled
+22:48:49  [main] 	Starting Check-Timer
+22:48:49  [main] 	Control Panel Ready
+22:48:53  [Apache] 	Attempting to start Apache app...
+22:48:53  [Apache] 	Status change detected: running
+22:48:54  [mysql] 	Attempting to start MySQL app...
+22:48:54  [mysql] 	Status change detected: running
+00:09:32  [Apache] 	Attempting to stop Apache (PID: 2164)
+00:09:32  [Apache] 	Attempting to stop Apache (PID: 2572)
+00:09:32  [Apache] 	Status change detected: stopped
+00:09:34  [mysql] 	Attempting to stop MySQL app...
+00:09:34  [mysql] 	Status change detected: stopped
+00:11:01  [main] 	Deinitializing Modules
+00:11:01  [main] 	Deinitializing Control Panel
+
+09:41:43  [main] 	Initializing Control Panel
+09:41:43  [main] 	Windows Version:  Home  64-bit
+09:41:43  [main] 	XAMPP Version: 7.4.2
+09:41:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+09:41:43  [main] 	You are not running with administrator rights! This will work for
+09:41:43  [main] 	most application stuff but whenever you do something with services
+09:41:43  [main] 	there will be a security dialogue or things will break! So think 
+09:41:43  [main] 	about running this application with administrator rights!
+09:41:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:41:43  [main] 	Checking for prerequisites
+09:41:45  [main] 	All prerequisites found
+09:41:45  [main] 	Initializing Modules
+09:41:45  [main] 	The Tomcat module is disabled
+09:41:45  [main] 	Starting Check-Timer
+09:41:45  [main] 	Control Panel Ready
+09:41:55  [Apache] 	Attempting to start Apache app...
+09:41:55  [Apache] 	Status change detected: running
+09:41:57  [mysql] 	Attempting to start MySQL app...
+09:41:58  [mysql] 	Status change detected: running
+12:31:05  [main] 	Deinitializing Modules
+12:31:05  [main] 	Deinitializing Control Panel
+
+12:53:23  [main] 	Initializing Control Panel
+12:53:23  [main] 	Windows Version:  Home  64-bit
+12:53:23  [main] 	XAMPP Version: 7.4.2
+12:53:23  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:53:23  [main] 	You are not running with administrator rights! This will work for
+12:53:23  [main] 	most application stuff but whenever you do something with services
+12:53:23  [main] 	there will be a security dialogue or things will break! So think 
+12:53:23  [main] 	about running this application with administrator rights!
+12:53:23  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:53:23  [main] 	Checking for prerequisites
+12:53:31  [main] 	All prerequisites found
+12:53:31  [main] 	Initializing Modules
+12:53:31  [main] 	The Tomcat module is disabled
+12:53:31  [main] 	Starting Check-Timer
+12:53:31  [main] 	Control Panel Ready
+12:53:34  [Apache] 	Attempting to start Apache app...
+12:53:34  [Apache] 	Status change detected: running
+12:53:35  [mysql] 	Attempting to start MySQL app...
+12:53:35  [mysql] 	Status change detected: running
+14:47:37  [Apache] 	Attempting to stop Apache (PID: 5220)
+14:47:37  [Apache] 	Attempting to stop Apache (PID: 2184)
+14:47:37  [Apache] 	Status change detected: stopped
+14:47:38  [mysql] 	Attempting to stop MySQL app...
+14:47:39  [mysql] 	Status change detected: stopped
+14:56:16  [main] 	Deinitializing Modules
+14:56:16  [main] 	Deinitializing Control Panel
+
+17:44:43  [main] 	Initializing Control Panel
+17:44:43  [main] 	Windows Version:  Home  64-bit
+17:44:43  [main] 	XAMPP Version: 7.4.2
+17:44:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:44:43  [main] 	You are not running with administrator rights! This will work for
+17:44:43  [main] 	most application stuff but whenever you do something with services
+17:44:43  [main] 	there will be a security dialogue or things will break! So think 
+17:44:43  [main] 	about running this application with administrator rights!
+17:44:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:44:43  [main] 	Checking for prerequisites
+17:44:44  [main] 	All prerequisites found
+17:44:44  [main] 	Initializing Modules
+17:44:44  [main] 	The Tomcat module is disabled
+17:44:44  [main] 	Starting Check-Timer
+17:44:44  [main] 	Control Panel Ready
+17:44:48  [Apache] 	Attempting to start Apache app...
+17:44:49  [Apache] 	Status change detected: running
+17:44:50  [mysql] 	Attempting to start MySQL app...
+17:44:50  [mysql] 	Status change detected: running
+18:30:53  [Apache] 	Attempting to stop Apache (PID: 9000)
+18:30:53  [Apache] 	Attempting to stop Apache (PID: 8992)
+18:30:53  [Apache] 	Status change detected: stopped
+18:30:54  [mysql] 	Attempting to stop MySQL app...
+18:30:54  [mysql] 	Status change detected: stopped
+18:30:58  [main] 	Deinitializing Modules
+18:30:58  [main] 	Deinitializing Control Panel
+
+00:10:46  [main] 	Initializing Control Panel
+00:10:46  [main] 	Windows Version:  Home  64-bit
+00:10:46  [main] 	XAMPP Version: 7.4.2
+00:10:46  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+00:10:46  [main] 	You are not running with administrator rights! This will work for
+00:10:46  [main] 	most application stuff but whenever you do something with services
+00:10:46  [main] 	there will be a security dialogue or things will break! So think 
+00:10:46  [main] 	about running this application with administrator rights!
+00:10:46  [main] 	XAMPP Installation Directory: "c:\xampp\"
+00:10:46  [main] 	Checking for prerequisites
+00:10:47  [main] 	All prerequisites found
+00:10:47  [main] 	Initializing Modules
+00:10:47  [Apache] 	XAMPP Apache is already running on port 80
+00:10:47  [Apache] 	XAMPP Apache is already running on port 443
+00:10:47  [mysql] 	XAMPP MySQL is already running on port 3306
+00:10:47  [main] 	The Tomcat module is disabled
+00:10:47  [main] 	Starting Check-Timer
+00:10:47  [main] 	Control Panel Ready
+00:10:50  [Apache] 	Attempting to stop Apache (PID: 10784)
+00:10:50  [Apache] 	Attempting to stop Apache (PID: 2712)
+00:10:50  [Apache] 	Status change detected: stopped
+00:10:51  [mysql] 	Attempting to stop MySQL app...
+00:10:51  [mysql] 	Status change detected: stopped
+00:11:41  [Apache] 	Attempting to start Apache app...
+00:11:42  [Apache] 	Status change detected: running
+00:11:43  [mysql] 	Attempting to start MySQL app...
+00:11:43  [mysql] 	Status change detected: running
+00:18:27  [Apache] 	Attempting to stop Apache (PID: 5052)
+00:18:27  [Apache] 	Attempting to stop Apache (PID: 2144)
+00:18:27  [Apache] 	Status change detected: stopped
+00:18:28  [mysql] 	Attempting to stop MySQL app...
+00:18:29  [mysql] 	Status change detected: stopped
+18:29:00  [Apache] 	Attempting to start Apache app...
+18:29:00  [Apache] 	Status change detected: running
+18:29:01  [mysql] 	Attempting to start MySQL app...
+18:29:01  [mysql] 	Status change detected: running
+18:41:01  [Apache] 	Attempting to stop Apache (PID: 10716)
+18:41:01  [Apache] 	Attempting to stop Apache (PID: 11408)
+18:41:02  [Apache] 	Status change detected: stopped
+18:41:03  [mysql] 	Attempting to stop MySQL app...
+18:41:03  [mysql] 	Status change detected: stopped
+18:41:14  [main] 	Deinitializing Modules
+18:41:14  [main] 	Deinitializing Control Panel
+
+22:56:27  [main] 	Initializing Control Panel
+22:56:27  [main] 	Windows Version:  Home  64-bit
+22:56:27  [main] 	XAMPP Version: 7.4.2
+22:56:27  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:56:27  [main] 	You are not running with administrator rights! This will work for
+22:56:27  [main] 	most application stuff but whenever you do something with services
+22:56:27  [main] 	there will be a security dialogue or things will break! So think 
+22:56:27  [main] 	about running this application with administrator rights!
+22:56:27  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:56:27  [main] 	Checking for prerequisites
+22:56:27  [main] 	All prerequisites found
+22:56:27  [main] 	Initializing Modules
+22:56:27  [main] 	The Tomcat module is disabled
+22:56:27  [main] 	Starting Check-Timer
+22:56:27  [main] 	Control Panel Ready
+22:56:39  [Apache] 	Attempting to start Apache app...
+22:56:39  [Apache] 	Status change detected: running
+22:56:40  [mysql] 	Attempting to start MySQL app...
+22:56:41  [mysql] 	Status change detected: running
+00:10:50  [Apache] 	Status change detected: stopped
+00:10:50  [Apache] 	Error: Apache shutdown unexpectedly.
+00:10:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+00:10:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+00:10:50  [Apache] 	Press the Logs button to view error logs and check
+00:10:50  [Apache] 	the Windows Event Viewer for more clues
+00:10:50  [Apache] 	If you need more help, copy and post this
+00:10:50  [Apache] 	entire log window on the forums
+00:10:51  [mysql] 	Status change detected: stopped
+00:10:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+00:10:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+00:10:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+00:10:51  [mysql] 	Press the Logs button to view error logs and check
+00:10:51  [mysql] 	the Windows Event Viewer for more clues
+00:10:51  [mysql] 	If you need more help, copy and post this
+00:10:51  [mysql] 	entire log window on the forums
+00:11:42  [Apache] 	Status change detected: running
+00:11:43  [mysql] 	Status change detected: running
+00:18:27  [Apache] 	Status change detected: stopped
+00:18:27  [Apache] 	Error: Apache shutdown unexpectedly.
+00:18:27  [Apache] 	This may be due to a blocked port, missing dependencies, 
+00:18:27  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+00:18:27  [Apache] 	Press the Logs button to view error logs and check
+00:18:27  [Apache] 	the Windows Event Viewer for more clues
+00:18:27  [Apache] 	If you need more help, copy and post this
+00:18:27  [Apache] 	entire log window on the forums
+00:18:29  [mysql] 	Status change detected: stopped
+00:18:29  [mysql] 	Error: MySQL shutdown unexpectedly.
+00:18:29  [mysql] 	This may be due to a blocked port, missing dependencies, 
+00:18:29  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+00:18:29  [mysql] 	Press the Logs button to view error logs and check
+00:18:29  [mysql] 	the Windows Event Viewer for more clues
+00:18:29  [mysql] 	If you need more help, copy and post this
+00:18:29  [mysql] 	entire log window on the forums
+18:29:00  [Apache] 	Status change detected: running
+18:29:01  [mysql] 	Status change detected: running
+18:41:02  [Apache] 	Status change detected: stopped
+18:41:02  [Apache] 	Error: Apache shutdown unexpectedly.
+18:41:02  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:41:02  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:41:02  [Apache] 	Press the Logs button to view error logs and check
+18:41:02  [Apache] 	the Windows Event Viewer for more clues
+18:41:02  [Apache] 	If you need more help, copy and post this
+18:41:02  [Apache] 	entire log window on the forums
+18:41:03  [mysql] 	Status change detected: stopped
+18:41:03  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:41:03  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:41:03  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:41:03  [mysql] 	Press the Logs button to view error logs and check
+18:41:03  [mysql] 	the Windows Event Viewer for more clues
+18:41:03  [mysql] 	If you need more help, copy and post this
+18:41:03  [mysql] 	entire log window on the forums
+18:41:14  [main] 	Deinitializing Modules
+18:41:14  [main] 	Deinitializing Control Panel
+
+22:48:12  [main] 	Initializing Control Panel
+22:48:12  [main] 	Windows Version:  Home  64-bit
+22:48:12  [main] 	XAMPP Version: 7.4.2
+22:48:12  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:48:12  [main] 	You are not running with administrator rights! This will work for
+22:48:12  [main] 	most application stuff but whenever you do something with services
+22:48:12  [main] 	there will be a security dialogue or things will break! So think 
+22:48:12  [main] 	about running this application with administrator rights!
+22:48:12  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:48:12  [main] 	Checking for prerequisites
+22:48:12  [main] 	All prerequisites found
+22:48:12  [main] 	Initializing Modules
+22:48:12  [main] 	The Tomcat module is disabled
+22:48:12  [main] 	Starting Check-Timer
+22:48:12  [main] 	Control Panel Ready
+22:48:17  [Apache] 	Attempting to start Apache app...
+22:48:17  [Apache] 	Status change detected: running
+22:48:19  [mysql] 	Attempting to start MySQL app...
+22:48:19  [mysql] 	Status change detected: running
+23:02:56  [Apache] 	Status change detected: stopped
+23:02:56  [Apache] 	Error: Apache shutdown unexpectedly.
+23:02:56  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:02:56  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:02:56  [Apache] 	Press the Logs button to view error logs and check
+23:02:56  [Apache] 	the Windows Event Viewer for more clues
+23:02:56  [Apache] 	If you need more help, copy and post this
+23:02:56  [Apache] 	entire log window on the forums
+23:02:59  [mysql] 	Status change detected: stopped
+23:02:59  [mysql] 	Error: MySQL shutdown unexpectedly.
+23:02:59  [mysql] 	This may be due to a blocked port, missing dependencies, 
+23:02:59  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+23:02:59  [mysql] 	Press the Logs button to view error logs and check
+23:02:59  [mysql] 	the Windows Event Viewer for more clues
+23:02:59  [mysql] 	If you need more help, copy and post this
+23:02:59  [mysql] 	entire log window on the forums
+23:03:04  [Apache] 	Status change detected: running
+23:03:05  [mysql] 	Status change detected: running
+23:24:54  [mysql] 	Status change detected: stopped
+23:24:54  [mysql] 	Error: MySQL shutdown unexpectedly.
+23:24:54  [mysql] 	This may be due to a blocked port, missing dependencies, 
+23:24:54  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+23:24:54  [mysql] 	Press the Logs button to view error logs and check
+23:24:54  [mysql] 	the Windows Event Viewer for more clues
+23:24:54  [mysql] 	If you need more help, copy and post this
+23:24:54  [mysql] 	entire log window on the forums
+23:24:58  [Apache] 	Status change detected: stopped
+23:24:58  [Apache] 	Error: Apache shutdown unexpectedly.
+23:24:58  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:24:58  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:24:58  [Apache] 	Press the Logs button to view error logs and check
+23:24:58  [Apache] 	the Windows Event Viewer for more clues
+23:24:58  [Apache] 	If you need more help, copy and post this
+23:24:58  [Apache] 	entire log window on the forums
+00:20:45  [main] 	Deinitializing Modules
+00:20:45  [main] 	Deinitializing Control Panel
+
+14:58:34  [main] 	Initializing Control Panel
+14:58:34  [main] 	Windows Version:  Home  64-bit
+14:58:34  [main] 	XAMPP Version: 7.4.2
+14:58:34  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:58:34  [main] 	You are not running with administrator rights! This will work for
+14:58:34  [main] 	most application stuff but whenever you do something with services
+14:58:34  [main] 	there will be a security dialogue or things will break! So think 
+14:58:34  [main] 	about running this application with administrator rights!
+14:58:34  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:58:34  [main] 	Checking for prerequisites
+14:58:34  [main] 	All prerequisites found
+14:58:34  [main] 	Initializing Modules
+14:58:34  [main] 	The Tomcat module is disabled
+14:58:34  [main] 	Starting Check-Timer
+14:58:34  [main] 	Control Panel Ready
+14:58:37  [Apache] 	Attempting to start Apache app...
+14:58:37  [Apache] 	Status change detected: running
+14:58:38  [mysql] 	Attempting to start MySQL app...
+14:58:38  [mysql] 	Status change detected: running
+16:03:45  [Apache] 	Attempting to stop Apache (PID: 7216)
+16:03:45  [Apache] 	Attempting to stop Apache (PID: 2056)
+16:03:45  [Apache] 	Status change detected: stopped
+16:03:46  [mysql] 	Attempting to stop MySQL app...
+16:03:46  [mysql] 	Status change detected: stopped
+16:03:56  [main] 	Deinitializing Modules
+16:03:56  [main] 	Deinitializing Control Panel
+
+17:40:43  [main] 	Initializing Control Panel
+17:40:43  [main] 	Windows Version:  Home  64-bit
+17:40:43  [main] 	XAMPP Version: 7.4.2
+17:40:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:40:43  [main] 	You are not running with administrator rights! This will work for
+17:40:43  [main] 	most application stuff but whenever you do something with services
+17:40:43  [main] 	there will be a security dialogue or things will break! So think 
+17:40:43  [main] 	about running this application with administrator rights!
+17:40:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:40:43  [main] 	Checking for prerequisites
+17:40:43  [main] 	All prerequisites found
+17:40:43  [main] 	Initializing Modules
+17:40:43  [main] 	The Tomcat module is disabled
+17:40:43  [main] 	Starting Check-Timer
+17:40:43  [main] 	Control Panel Ready
+17:40:48  [Apache] 	Attempting to start Apache app...
+17:40:48  [Apache] 	Status change detected: running
+17:40:51  [mysql] 	Attempting to start MySQL app...
+17:40:51  [mysql] 	Status change detected: running
+20:22:33  [main] 	Deinitializing Modules
+20:22:33  [main] 	Deinitializing Control Panel
+
+21:29:18  [main] 	Initializing Control Panel
+21:29:18  [main] 	Windows Version:  Home  64-bit
+21:29:18  [main] 	XAMPP Version: 7.4.2
+21:29:18  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:29:18  [main] 	You are not running with administrator rights! This will work for
+21:29:18  [main] 	most application stuff but whenever you do something with services
+21:29:18  [main] 	there will be a security dialogue or things will break! So think 
+21:29:18  [main] 	about running this application with administrator rights!
+21:29:18  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:29:18  [main] 	Checking for prerequisites
+21:29:21  [main] 	All prerequisites found
+21:29:21  [main] 	Initializing Modules
+21:29:21  [main] 	The Tomcat module is disabled
+21:29:21  [main] 	Starting Check-Timer
+21:29:21  [main] 	Control Panel Ready
+21:29:29  [Apache] 	Attempting to start Apache app...
+21:29:31  [Apache] 	Status change detected: running
+21:29:32  [mysql] 	Attempting to start MySQL app...
+21:29:33  [mysql] 	Status change detected: running
+23:25:31  [Apache] 	Attempting to stop Apache (PID: 7712)
+23:25:31  [Apache] 	Attempting to stop Apache (PID: 6324)
+23:25:32  [Apache] 	Status change detected: stopped
+23:25:32  [mysql] 	Attempting to stop MySQL app...
+23:25:32  [mysql] 	Status change detected: stopped
+23:25:41  [main] 	Deinitializing Modules
+23:25:41  [main] 	Deinitializing Control Panel
+
+23:48:04  [main] 	Initializing Control Panel
+23:48:04  [main] 	Windows Version:  Home  64-bit
+23:48:04  [main] 	XAMPP Version: 7.4.2
+23:48:04  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:48:04  [main] 	You are not running with administrator rights! This will work for
+23:48:04  [main] 	most application stuff but whenever you do something with services
+23:48:04  [main] 	there will be a security dialogue or things will break! So think 
+23:48:04  [main] 	about running this application with administrator rights!
+23:48:04  [main] 	XAMPP Installation Directory: "c:\xampp\"
+23:48:04  [main] 	Checking for prerequisites
+23:48:05  [main] 	All prerequisites found
+23:48:05  [main] 	Initializing Modules
+23:48:05  [main] 	The Tomcat module is disabled
+23:48:05  [main] 	Starting Check-Timer
+23:48:05  [main] 	Control Panel Ready
+23:48:10  [Apache] 	Attempting to start Apache app...
+23:48:10  [Apache] 	Status change detected: running
+23:48:11  [mysql] 	Attempting to start MySQL app...
+23:48:11  [mysql] 	Status change detected: running
+00:15:08  [main] 	Deinitializing Modules
+00:15:08  [main] 	Deinitializing Control Panel
+
+00:52:53  [main] 	Initializing Control Panel
+00:52:53  [main] 	Windows Version:  Home  64-bit
+00:52:53  [main] 	XAMPP Version: 7.4.2
+00:52:53  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+00:52:53  [main] 	You are not running with administrator rights! This will work for
+00:52:53  [main] 	most application stuff but whenever you do something with services
+00:52:53  [main] 	there will be a security dialogue or things will break! So think 
+00:52:53  [main] 	about running this application with administrator rights!
+00:52:53  [main] 	XAMPP Installation Directory: "c:\xampp\"
+00:52:53  [main] 	Checking for prerequisites
+00:52:57  [main] 	All prerequisites found
+00:52:57  [main] 	Initializing Modules
+00:52:57  [main] 	The Tomcat module is disabled
+00:52:57  [main] 	Starting Check-Timer
+00:52:57  [main] 	Control Panel Ready
+00:53:01  [Apache] 	Attempting to start Apache app...
+00:53:02  [Apache] 	Status change detected: running
+00:53:02  [mysql] 	Attempting to start MySQL app...
+00:53:04  [mysql] 	Status change detected: running
+00:56:32  [main] 	Deinitializing Modules
+00:56:32  [main] 	Deinitializing Control Panel
+
+18:44:56  [main] 	Initializing Control Panel
+18:44:56  [main] 	Windows Version:  Home  64-bit
+18:44:56  [main] 	XAMPP Version: 7.4.2
+18:44:56  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:44:56  [main] 	You are not running with administrator rights! This will work for
+18:44:56  [main] 	most application stuff but whenever you do something with services
+18:44:56  [main] 	there will be a security dialogue or things will break! So think 
+18:44:56  [main] 	about running this application with administrator rights!
+18:44:56  [main] 	XAMPP Installation Directory: "c:\xampp\"
+18:44:56  [main] 	Checking for prerequisites
+18:45:03  [main] 	All prerequisites found
+18:45:03  [main] 	Initializing Modules
+18:45:03  [main] 	The Tomcat module is disabled
+18:45:03  [main] 	Starting Check-Timer
+18:45:03  [main] 	Control Panel Ready
+18:45:05  [Apache] 	Attempting to start Apache app...
+18:45:07  [Apache] 	Status change detected: running
+18:45:08  [mysql] 	Attempting to start MySQL app...
+18:45:08  [mysql] 	Status change detected: running
+19:11:05  [Apache] 	Attempting to stop Apache (PID: 5880)
+19:11:05  [Apache] 	Attempting to stop Apache (PID: 5600)
+19:11:05  [Apache] 	Status change detected: stopped
+19:11:06  [mysql] 	Attempting to stop MySQL app...
+19:11:06  [mysql] 	Status change detected: stopped
+23:57:24  [main] 	Deinitializing Modules
+23:57:24  [main] 	Deinitializing Control Panel
+
